@@ -1,6 +1,6 @@
 {
-  "name": "My PWA App",
-  "short_name": "KN BOX",
+  "name": "KN-BOX",
+  "short_name": "KN-BOX",
   "description": "My Progressive Web Application",
   "start_url": "/index.html",
   "scope": "/",
